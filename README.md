@@ -48,12 +48,5 @@ This Python script performs a reverse IP lookup, providing valuable information 
 ## Example
 
 ```bash
-Enter an IP address: 8.8.8.8```
-
-## Example
-This script uses the "ipinfo.io" API for additional IP information.
-
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Make sure to replace placeholders like Amin Mousavi with your actual GitHub username and include a `LICENSE.md` file if you have chosen a specific license for your project.
+Enter an IP address: 8.8.8.8
+```
