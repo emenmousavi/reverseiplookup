@@ -20,7 +20,7 @@ This Python script performs a reverse IP lookup, providing valuable information 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/reverse-ip-lookup.git
+    git clone https://github.com/emenmousavi/reverseiplookup
     ```
 
 2. Install dependencies:
